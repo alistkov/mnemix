@@ -1,6 +1,6 @@
 # Mnemix learning app
 
-***Smart repetition. Strong memory.***
+**_Smart repetition. Strong memory._**
 
 ## Setup
 
